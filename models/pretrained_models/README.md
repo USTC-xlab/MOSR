@@ -1,1 +1,1 @@
-The pretrained model is released as v1.0.0.
+The pretrained model is released as v2.0.0.
