@@ -1,7 +1,8 @@
 # MOSR (MSI from Optical Super-Resolution)
-MOSR is a Mass Spectrometry Imaging (MSI) super-resolution strategy based on transfer learning, which tremendously reduces the requirement for sample size by transferring the knowledge learned from abundant optical images (~15,000 images) to the MSI model. Once trained, MOSR can take an Low-Resolution MSI image as input and output a reconstructed High-Resolution MSI image in less than one second.
 
 [![DOI](https://zenodo.org/badge/518689580.svg)](https://zenodo.org/badge/latestdoi/518689580)
+
+MOSR is a Mass Spectrometry Imaging (MSI) super-resolution strategy based on transfer learning, which tremendously reduces the requirement for sample size by transferring the knowledge learned from abundant optical images (~15,000 images) to the MSI model. Once trained, MOSR can take an Low-Resolution MSI image as input and output a reconstructed High-Resolution MSI image in less than one second.
 
 <div align = center> 
 <img src="https://github.com/USTC-xlab/MOSR/blob/master/graph.png" width = "600" height = "400" />
