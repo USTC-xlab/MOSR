@@ -2,6 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/518689580.svg)](https://zenodo.org/badge/latestdoi/518689580)
 
+The article on Nature Machine Intelligence: [A super-resolution strategy for mass spectrometry imaging via transfer learning](https://www.nature.com/articles/s42256-023-00677-7)
+
+> Liao, T., Ren, Z., Chai, Z. et al. A super-resolution strategy for mass spectrometry imaging via transfer learning. Nat Mach Intell 5, 656–668 (2023). https://doi.org/10.1038/s42256-023-00677-7
+
 MOSR is a Mass Spectrometry Imaging (MSI) super-resolution strategy based on transfer learning, which tremendously reduces the requirement for sample size by transferring the knowledge learned from abundant optical images (~15,000 images) to the MSI model. Once trained, MOSR can take an Low-Resolution MSI image as input and output a reconstructed High-Resolution MSI image in less than one second.
 
 <div align = center> 
